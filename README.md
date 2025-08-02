@@ -13,7 +13,7 @@
 - Member 2: [Sreejith] - [College of Engineering Attingal]
 
 ### Project Description
-Overthinkers Decision Helper is a chaotic decision-making web app that gives hilariously random answers to your deepest life questions. Built with HTML, CSS, and JavaScript, it helps you stop thinking and start clicking
+Overthinkers Decision Helper is a chaotic decision-making website that gives hilariously random answers to your deepest life questions. Built with HTML, CSS, and JavaScript, it helps you stop thinking and start clicking
 
 ### The Problem (that doesn't exist)
 People often overthink simple choices, wasting time and mental energy. ThinkLess solves this by delivering instant, absurd decisions—so you never have to think too hard again.
@@ -74,6 +74,3 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
-
-
-
